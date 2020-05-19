@@ -1,1 +1,1 @@
-[Live demo](https://andreasheige.github.io/todo-mvc-react-redux/)
+  found bug not working anymore, have to fix
